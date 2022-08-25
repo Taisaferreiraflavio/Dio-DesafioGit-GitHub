@@ -1,0 +1,15 @@
+Criando os repositórios
+
+Quando você tem o desejo de utilizar o Git para um projeto, o primeiro comando que você deve executar
+é o git init, com o nome do seu projeto:
+
+git init [nome do projeto]
+
+Você irá executar este comando na linha de comando do Git Shell no diretório principal do seu projeto, 
+o qual você poderá navegar no Shell utilizando os comandos que listamos acima.
+
+Depois de executar esse comando o Git então criou um arquivo .git oculto dentro do diretório principal 
+do seu projeto.
+
+Este arquivo rastreia o histórico de versões do seu projeto e é o que transforma o projeto em um 
+repositório Git, permitindo que você execute os comandos do Git nele.
